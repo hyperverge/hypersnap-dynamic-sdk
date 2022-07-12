@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "HyperSnapDynamicLibrary"
+  s.name         = "HyperSnapDynamicFramework"
   s.version      = "4.1.2"
   # s.static_framework = true
   s.summary      = "HyperVerge's iOS Framework for capturing documents and faces to be used with our AI Engines"
